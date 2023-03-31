@@ -6,7 +6,7 @@ const config: HardhatUserConfig = {
   networks: {
     hardhat :{},
     ropsten: {
-      url: "https://ropsten.infura.io/v3/f24912927a1d412da7349062f209feff",
+      url: "",
       accounts: [""]
     }
   },
